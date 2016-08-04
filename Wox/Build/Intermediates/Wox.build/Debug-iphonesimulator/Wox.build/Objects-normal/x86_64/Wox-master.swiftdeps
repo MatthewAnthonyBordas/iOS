@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "31431d3f046650d23a4e8674ee864b8e"
+build_time: [501723840, 157612000]
+inputs:
+  "/Users/matthewbordas/Desktop/Wox/Wox/Pin.swift": [501713253, 0]
+  "/Users/matthewbordas/Desktop/Wox/Wox/MainViewController.swift": [501723839, 0]
+  "/Users/matthewbordas/Desktop/Wox/Wox/AppDelegate.swift": [501666132, 0]
+  "/Users/matthewbordas/Desktop/Wox/Wox/Route.swift": [501721152, 0]
