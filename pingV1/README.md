@@ -1,5 +1,5 @@
 # These are screenshots of the first iteration of P.I.N.G. Inc's iOS app 
-Due to the confidential nature of the source code, this is all I am able to legally post.
+Due to the confidential nature of the source code, this is all I am able to legally post, along with a demo video: https://youtu.be/TTN2OVyFRxA.
 This app is a business card replacement app written in Objective-C and Swift.
 ![Landing](https://github.com/MatthewAnthonyBordas/iOS/blob/master/images/pingV1_landing.png)
 ![Login](https://github.com/MatthewAnthonyBordas/iOS/blob/master/images/pingV1_login.png)
